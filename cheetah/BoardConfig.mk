@@ -20,8 +20,10 @@ BOARD_USES_GENERIC_AUDIO := true
 USES_DEVICE_GOOGLE_CLOUDRIPPER := true
 BOARD_KERNEL_CMDLINE += swiotlb=noforce
 
-include device/google/gs201/BoardConfig-common.mk
+<<<<<<< HEAD:cheetah/BoardConfig.mk
 -include vendor/google_devices/gs201/prebuilts/BoardConfigVendor.mk
 -include vendor/google_devices/cheetah/proprietary/BoardConfigVendor.mk
 include device/google/pantah-sepolicy/cheetah-sepolicy.mk
 include device/google/pantah/wifi/BoardConfig-wifi.mk
+
+include device/google/pantah/cheetah/BoardConfig-calyx.mk
