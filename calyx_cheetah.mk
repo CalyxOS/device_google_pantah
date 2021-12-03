@@ -11,6 +11,7 @@ $(call inherit-product, vendor/calyx/config/common_phone.mk)
 # Inherit device configuration
 DEVICE_CODENAME := cheetah
 DEVICE_PATH := device/google/pantah
+VENDOR_PATH := vendor/google/cheetah
 $(call inherit-product, device/google/gs201/calyx_common.mk)
 $(call inherit-product, $(DEVICE_PATH)/$(DEVICE_CODENAME)/device-calyx.mk)
 $(call inherit-product, $(DEVICE_PATH)/aosp_$(DEVICE_CODENAME).mk)
@@ -29,3 +30,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 BUILD_FINGERPRINT := google/cheetah/cheetah:14/AP2A.240905.003/12231197:user/release-keys
 
 PRODUCT_RESTRICT_VENDOR_FILES := false
+
+$(call inherit-product, $(VENDOR_PATH)/$(DEVICE_CODENAME)-vendor.mk)
