@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a92839d1_6768786e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-10-15T12:42:49Z",
+      "side": 1,
+      "message": "As far as I can tell none of the devices have an RRO",
+      "revId": "fb2ca7a26216cc91905a0969cde2e3fc6ce98a26",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
