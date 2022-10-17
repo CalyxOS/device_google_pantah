@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "66acd8ac_a69f9d0e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-10-17T18:24:33Z",
+      "side": 1,
+      "message": "Not seeing anything with a flashlight but the app is logging.\n\nWill test in sunlight next time I see some. 😄",
+      "revId": "75deff498d2725a00d3f401034c30b44798577d8",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
