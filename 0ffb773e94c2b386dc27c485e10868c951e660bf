@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cb5fbbd2_cb0a3b2c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-10-17T23:26:56Z",
+      "side": 1,
+      "message": "13943: 0ffb773e94c2b386dc27c485e10868c951e660bf | https://review.calyxos.org/c/CalyxOS/device_google_raviole/+/13943",
+      "revId": "0ffb773e94c2b386dc27c485e10868c951e660bf",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
