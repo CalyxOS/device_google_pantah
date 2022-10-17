@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "412bbbe5_2ead38d4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-10-17T18:26:17Z",
+      "side": 1,
+      "message": "Works even with the camera bumps on two devices\n\nPlaced gs101 behind gs201 .",
+      "revId": "b8dc66f9ffa0471e9170fb6a3b8bc70ddb3f3ac4",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
