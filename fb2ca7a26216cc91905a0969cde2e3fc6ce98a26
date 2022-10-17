@@ -16,6 +16,23 @@
       "message": "As far as I can tell none of the devices have an RRO",
       "revId": "fb2ca7a26216cc91905a0969cde2e3fc6ce98a26",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cc6651d0_a07cef81",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-10-17T17:05:30Z",
+      "side": 1,
+      "message": "https://dumps.tadiphone.dev/dumps/google/panther/-/blob/panther-user-13-TD1A.220804.009.A2-8940162-release-keys/product/overlay/HbmSVManager__auto_generated_rro_product.apk",
+      "revId": "fb2ca7a26216cc91905a0969cde2e3fc6ce98a26",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ],
   "submitRequirementResults": []
