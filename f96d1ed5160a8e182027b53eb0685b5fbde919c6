@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "64a86d0d_b69147c9",
+        "filename": "cheetah/proprietary-files.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 283,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-10-18T22:08:12Z",
+      "side": 0,
+      "message": "TODO: restore these",
+      "range": {
+        "startLine": 282,
+        "startChar": 0,
+        "endLine": 283,
+        "endChar": 52
+      },
+      "revId": "f96d1ed5160a8e182027b53eb0685b5fbde919c6",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
