@@ -16,6 +16,24 @@
       "message": "TODOs: init_boot vendor_kernel_boot",
       "revId": "2a8e2fa88b54c8c1ad89c0cce484c16ab51091cb",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b6e80782_c7579b98",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-10-18T22:07:31Z",
+      "side": 1,
+      "message": "Both are in AOSP, already built and present.",
+      "parentUuid": "8b6c82ae_4b3ac414",
+      "revId": "2a8e2fa88b54c8c1ad89c0cce484c16ab51091cb",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
