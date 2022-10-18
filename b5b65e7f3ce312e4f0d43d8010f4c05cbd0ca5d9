@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9eb1889f_d230b413",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-10-18T22:04:45Z",
+      "side": 1,
+      "message": "We can copy one of the permissions from stock, but that will be done in a followup commit for gs101 as well.",
+      "revId": "b5b65e7f3ce312e4f0d43d8010f4c05cbd0ca5d9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
