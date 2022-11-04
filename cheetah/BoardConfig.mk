@@ -30,7 +30,7 @@ BOARD_KERNEL_CMDLINE += swiotlb=noforce
 
 include device/google/gs201/BoardConfig-common.mk
 include device/google/gs-common/check_current_prebuilt/check_current_prebuilt.mk
-include device/google/pantah-sepolicy/cheetah-sepolicy.mk
+include device/google/pantah/sepolicy/cheetah-sepolicy.mk
 include device/google/pantah/wifi/BoardConfig-wifi.mk
 
 DEVICE_PATH := device/google/pantah
