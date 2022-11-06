@@ -171,6 +171,10 @@ product/priv-app/EuiccGoogle/EuiccGoogle.apk;PRESIGNED
 system_ext/lib64/libaptXHD_encoder.so
 system_ext/lib64/libaptX_encoder.so
 
+# Camera extensions
+system_ext/etc/permissions/com.google.android.camera.experimental2022_system.xml
+system_ext/framework/com.google.android.camera.experimental2022_system.jar
+
 # Edge TPU
 system_ext/bin/hw/vendor.google.edgetpu_app_service@1.0-service
 system_ext/etc/init/vendor.google.edgetpu_app_service@1.0-service.rc
@@ -187,6 +191,7 @@ system_ext/etc/permissions/com.shannon.imsservice.xml
 system_ext/etc/permissions/com.shannon.rcsservice.xml
 system_ext/lib/libmediaadaptor.so
 system_ext/lib64/libmediaadaptor.so
+system_ext/priv-app/QualifiedNetworksService/QualifiedNetworksService.apk
 system_ext/priv-app/ShannonIms/ShannonIms.apk;PRESIGNED
 system_ext/priv-app/ShannonRcs/ShannonRcs.apk;PRESIGNED
 
@@ -196,6 +201,8 @@ system_ext/lib64/libpowerstatshaldataprovider.so
 # Radio
 system_ext/etc/permissions/com.google.euiccpixel.permissions.xml
 system_ext/etc/permissions/com.google.euiccpixel.xml
+system_ext/etc/permissions/google-ril.xml
+system_ext/framework/google-ril.jar
 system_ext/priv-app/EuiccSupportPixel/DKA_RC5_DVT.in
 system_ext/priv-app/EuiccSupportPixel/DKA_RC5_P22_DVT.in
 system_ext/priv-app/EuiccSupportPixel/DKA_RC5_P22_EVT.in
