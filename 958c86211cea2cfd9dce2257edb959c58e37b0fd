@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "02f1c26a_8bd772f8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-11-14T13:55:19Z",
+      "side": 1,
+      "message": "QualifiedNetworksService manifest:\n\n```\n\u003cmanifest xmlns:android\u003d\"http://schemas.android.com/apk/res/android\" android:sharedUserId\u003d\"android.uid.system\" android:versionCode\u003d\"33\" android:versionName\u003d\"13\" android:compileSdkVersion\u003d\"33\" android:compileSdkVersionCodename\u003d\"13\" coreApp\u003d\"true\" package\u003d\"com.android.qns\" platformBuildVersionCode\u003d\"33\" platformBuildVersionName\u003d\"13\"\u003e\n  \u003cuses-sdk android:minSdkVersion\u003d\"33\" android:targetSdkVersion\u003d\"33\"/\u003e\n  \u003cprotected-broadcast android:name\u003d\"android.qns.action.WIFI_BACKHAUL_TIMER_EXPIRED\"/\u003e\n  \u003cuses-permission android:name\u003d\"com.google.android.permission.USE_GRIL\"/\u003e\n  \u003capplication android:extractNativeLibs\u003d\"true\" android:defaultToDeviceProtectedStorage\u003d\"true\" android:directBootAware\u003d\"true\" android:usesNonSdkApi\u003d\"true\"\u003e\n    \u003cservice android:name\u003d\".QualifiedNetworksServiceImpl\" android:permission\u003d\"android.permission.BIND_TELEPHONY_DATA_SERVICE\" android:enabled\u003d\"true\" android:exported\u003d\"true\"\u003e\n      \u003cintent-filter\u003e\n        \u003caction android:name\u003d\"android.telephony.data.QualifiedNetworksService\"/\u003e\n      \u003c/intent-filter\u003e\n    \u003c/service\u003e\n    \u003cuses-library android:name\u003d\"google-ril\" android:required\u003d\"true\"/\u003e\n  \u003c/application\u003e\n\u003c/manifest\u003e\n```",
+      "revId": "958c86211cea2cfd9dce2257edb959c58e37b0fd",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
