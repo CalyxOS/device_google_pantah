@@ -22,6 +22,30 @@
       },
       "revId": "4d0c25f60bcee4fe164b31c8f437cd754e54bfb3",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fe641761_ef64202b",
+        "filename": "powerhint-cheetah.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-12-06T23:58:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3f50b4b4_d8b87989",
+      "range": {
+        "startLine": 140,
+        "startChar": 0,
+        "endLine": 148,
+        "endChar": 5
+      },
+      "revId": "4d0c25f60bcee4fe164b31c8f437cd754e54bfb3",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
