@@ -3,7 +3,7 @@ $(call inherit-product, vendor/calyx/config/common_phone.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/google/gs201/calyx_common.mk)
-$(call inherit-product, device/google/pantah/device-calyx.mk)
+$(call inherit-product, device/google/pantah/panther/device-calyx.mk)
 $(call inherit-product, device/google/pantah/aosp_panther.mk)
 
 ## Device identifier. This must come after all inclusions
