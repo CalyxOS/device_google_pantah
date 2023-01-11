@@ -16,6 +16,24 @@
       "message": "send to AOSP?",
       "revId": "9abe1463a130086a3863f9f51a471ed003aae07f",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "50c98bad_22d339b1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2023-01-11T12:40:10Z",
+      "side": 1,
+      "message": "I could, however my last statusbar changes were ignored and there were no OWNERS for devices last time I checked :/",
+      "parentUuid": "7c9dc044_648fe41c",
+      "revId": "9abe1463a130086a3863f9f51a471ed003aae07f",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ],
   "submitRequirementResults": [
