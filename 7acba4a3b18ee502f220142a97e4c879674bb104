@@ -16,6 +16,24 @@
       "message": "This needs to be updated for 144px, it was 130px earlier.",
       "revId": "7acba4a3b18ee502f220142a97e4c879674bb104",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a887d255_0362834c",
+        "filename": "cheetah/overlay/frameworks/base/core/res/res/values/dimens.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-03-14T13:35:26Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "055a5138_edc3f815",
+      "revId": "7acba4a3b18ee502f220142a97e4c879674bb104",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
