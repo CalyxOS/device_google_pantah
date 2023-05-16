@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2d41e970_06b022b6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-05-16T19:59:17Z",
+      "side": 1,
+      "message": "Is panther affected by this too?\n\nFix untested on either.",
+      "revId": "f16b63045cf6370775c634895be2d49ab5749a71",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
