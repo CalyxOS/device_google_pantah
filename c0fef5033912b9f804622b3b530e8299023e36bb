@@ -34,6 +34,24 @@
       "parentUuid": "9f9c5100_8fc93878",
       "revId": "c0fef5033912b9f804622b3b530e8299023e36bb",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "77213493_e7e7e9c0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-05-16T20:42:55Z",
+      "side": 1,
+      "message": "Yes, it\u0027s set this way in stock for both panther and cheetah.",
+      "parentUuid": "5729e53a_b1f309f2",
+      "revId": "c0fef5033912b9f804622b3b530e8299023e36bb",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
