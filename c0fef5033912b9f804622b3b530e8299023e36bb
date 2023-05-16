@@ -16,6 +16,24 @@
       "message": "Is this the right way/place to make this config change? Tried similar with bramble just to test and it worked (even though it has no such limitation in reality).",
       "revId": "c0fef5033912b9f804622b3b530e8299023e36bb",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5729e53a_b1f309f2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-05-16T20:06:59Z",
+      "side": 1,
+      "message": "Yes this is the right place.\n\nDoes stock have the same config set?",
+      "parentUuid": "9f9c5100_8fc93878",
+      "revId": "c0fef5033912b9f804622b3b530e8299023e36bb",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
