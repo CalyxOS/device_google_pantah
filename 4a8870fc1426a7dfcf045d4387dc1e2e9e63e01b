@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7f925e88_e44cdaca",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-12-07T15:57:49Z",
+      "side": 1,
+      "message": "I don\u0027t know if this is the right way/place to do this, or if we even want it, but I noticed this change when build failed because it couldn\u0027t find /product/app/PixelCameraServicesC10/...",
+      "revId": "4a8870fc1426a7dfcf045d4387dc1e2e9e63e01b",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
