@@ -3,7 +3,7 @@
 # product partition
 
 # Camera extensions
-product/app/PixelCameraServicesP10/PixelCameraServicesP10.apk;PRESIGNED
+product/priv-app/PixelCameraServicesP10/PixelCameraServicesP10.apk;PRESIGNED
 product/etc/permissions/androidx.camera.extensions.impl.xml
 
 # IMS
