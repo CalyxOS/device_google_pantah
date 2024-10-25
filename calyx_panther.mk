@@ -22,7 +22,7 @@ PRODUCT_MODEL := Pixel 7
 PRODUCT_NAME := calyx_$(DEVICE_CODENAME)
 
 PRODUCT_BUILD_PROP_OVERRIDES := \
-    BuildDesc=panther-user[[:space:]]15[[:space:]]AP3A.241005.015[[:space:]]12366759[[:space:]]release-keys \
+    BuildDesc="panther-user 15 AP3A.241005.015 12366759 release-keys" \
     BuildFingerprint=google/panther/panther:15/AP3A.241005.015/12366759:user/release-keys \
     DeviceProduct=$(DEVICE_CODENAME)
 
