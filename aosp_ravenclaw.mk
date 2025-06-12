@@ -28,6 +28,3 @@ PRODUCT_DEVICE := ravenclaw
 PRODUCT_MODEL := AOSP on Ravenclaw
 PRODUCT_BRAND := Android
 PRODUCT_MANUFACTURER := Google
-
-DEVICE_MANIFEST_FILE := \
-	device/google/pantah/manifest.xml

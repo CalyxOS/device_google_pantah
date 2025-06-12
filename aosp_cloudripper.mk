@@ -27,6 +27,3 @@ PRODUCT_DEVICE := cloudripper
 PRODUCT_MODEL := AOSP on cloudripper
 PRODUCT_BRAND := Android
 PRODUCT_MANUFACTURER := Google
-
-DEVICE_MANIFEST_FILE := \
-	device/google/pantah/manifest.xml
