@@ -28,7 +28,7 @@ endif
 
 
 TARGET_LINUX_KERNEL_VERSION := $(RELEASE_KERNEL_PANTHER_VERSION)
-TARGET_KERNEL_DIR := device/google/pantah-kernels/calyx
+TARGET_KERNEL_DIR := device/google/pantah-kernels/$(TARGET_LINUX_KERNEL_VERSION)
 TARGET_BOARD_KERNEL_HEADERS := $(TARGET_KERNEL_DIR)/kernel-headers
 
 DEVICE_PACKAGE_OVERLAYS += device/google/pantah/panther/overlay

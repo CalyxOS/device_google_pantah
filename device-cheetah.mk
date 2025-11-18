@@ -28,7 +28,7 @@ endif
 
 
 TARGET_LINUX_KERNEL_VERSION := $(RELEASE_KERNEL_CHEETAH_VERSION)
-TARGET_KERNEL_DIR := device/google/pantah-kernels/calyx
+TARGET_KERNEL_DIR := device/google/pantah-kernels/$(TARGET_LINUX_KERNEL_VERSION)
 TARGET_BOARD_KERNEL_HEADERS := $(TARGET_KERNEL_DIR)/kernel-headers
 
 $(call inherit-product, device/google/pantah/uwb/uwb_calibration_country.mk)
