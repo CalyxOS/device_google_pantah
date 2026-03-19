@@ -36,8 +36,6 @@ PRODUCT_PACKAGES += \
     SystemUIGoogleOverlayVendorPantah
 
 PRODUCT_PACKAGES += \
-    DMServiceOverlayProductGs201 \
-    DMServiceOverlayVendorCheetah \
     FrameworkResOverlayVendorCheetah \
     PixelNfcOverlayCheetah \
     PixelWifiOverlay2023_midyear_F10 \

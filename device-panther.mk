@@ -36,8 +36,6 @@ PRODUCT_PACKAGES += \
     SystemUIGoogleOverlayVendorPantah
 
 PRODUCT_PACKAGES += \
-    DMServiceOverlayProductGs201 \
-    DMServiceOverlayVendorPanther \
     FrameworkResOverlayProductPanther \
     FrameworkResOverlayVendorPanther \
     HbmSVManagerOverlayProductPanther \
